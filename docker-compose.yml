@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  timja-nodejs:
+    build:
+      context: .
+      args:
+        - http_proxy
+        - https_proxy
+        - no_proxy
+    ports:
+      - '3001:3001'
