@@ -4091,8 +4091,8 @@ __metadata:
     chai: 4.3.6
     chai-as-promised: 7.1.1
     chokidar: 3.5.3
-    codeceptjs-configure-temp-fork: ^0.7.1
-    codeceptjs-timja-temp-fork: ^3.3.5
+    codeceptjs-configure-temp-fork: 0.7.1
+    codeceptjs-timja-temp-fork: 3.3.5
     config: 3.3.8
     cookie-parser: 1.4.6
     copy-webpack-plugin: 9.1.0
@@ -5592,7 +5592,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"codeceptjs-configure-temp-fork@npm:^0.7.1":
+"codeceptjs-configure-temp-fork@npm:0.7.1":
   version: 0.7.1
   resolution: "codeceptjs-configure-temp-fork@npm:0.7.1"
   dependencies:
@@ -5604,7 +5604,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"codeceptjs-timja-temp-fork@npm:^3.3.5":
+"codeceptjs-timja-temp-fork@npm:3.3.5":
   version: 3.3.5
   resolution: "codeceptjs-timja-temp-fork@npm:3.3.5"
   dependencies:
