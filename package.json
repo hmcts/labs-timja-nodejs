@@ -76,7 +76,7 @@
     "chokidar": "3.5.3",
     "codeceptjs-configure-temp-fork": "^0.7.1",
     "codeceptjs-timja-temp-fork": "^3.3.5",
-    "copy-webpack-plugin": "9.1.0",
+    "copy-webpack-plugin": "10.2.4",
     "css-loader": "6.7.1",
     "debug": "4.3.4",
     "eslint": "8.23.1",
